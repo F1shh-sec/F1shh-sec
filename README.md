@@ -8,15 +8,13 @@ Hello, my name is George and I am a Computer Security student at Rochester Insti
 
 
 Some of my tools, and by that I mean my main projects, are closed source. This is because they typically fall under the malware umbrella. If you are interested in learning more about those tools, please visit private tool information repo:
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=f1shh-sec&repo=Private-Repo-Info&theme=dark" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=f1shh-sec&repo=Private-Repo-Info&theme=dark" />
 
 <H2 align="center">Github Stats</H2>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=f1shh-sec&count_private=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1shh-sec&layout=compact&theme=dark&hide=css,javascript,html,scss" />
 </a>
 

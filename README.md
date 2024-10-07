@@ -1,6 +1,4 @@
 <H1 align="center">I Make Tools That Break Things</H1>
-Hello, my name is George and I am a Computer Security student at Rochester Institute of Technology.
-
 
  On my free time I write and develop cyber security tools, manage my homelab, and participate in CTF's. 
  
